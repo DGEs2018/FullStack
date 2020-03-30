@@ -1,0 +1,5 @@
+# the list of files we'd like github to ignore
+
+.DS_STORE
+
+.node_modules
